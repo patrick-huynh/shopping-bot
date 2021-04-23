@@ -8,7 +8,7 @@ First, you must install some libraries
       **pip install requests**
 
 2) The second library is the beautiful soup library which is good for parsing HTML:
-      **ip install beautifulsoup4**
+      **pip install beautifulsoup4**
       
 3) We will be using the Twillo library to send a notification to our phone when the item is in stock:
       **pip install twilio**
