@@ -1,4 +1,4 @@
-# Shopping-Bot
+# shopping-bot
 
 
 First, you must install some libraries
